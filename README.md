@@ -335,6 +335,7 @@
 - [Radio Silence](https://radiosilenceapp.com) - Simple to use firewall and network monitor.
 - [Microsoft Remote Desktop Connection Client](https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417) - Remote Desktop Connection Client lets you connect from your Macintosh computer to a Windows-based computer.
 - [RDM](https://github.com/avibrazil/RDM) - Easily set Mac Retina display to higher unsupported resolutions. [![Open-Source Software][OSS Icon]](https://github.com/avibrazil/RDM)
+- [RemoteCrab](https://vgoapp.com/remotecrab/?utm_source=awesome-macos&utm_medium=readme&utm_campaign=list) - Turns an iPhone or iPad into a camera, microphone, trackpad and keyboard for a Mac, and serves that Mac to any browser tab with nothing to install on the viewer's side.
 - [SaneBar](https://sanebar.com) - Native menu bar manager with quick reveal controls and Touch ID lock.
 - [Site Sucker](http://ricks-apps.com/osx/sitesucker/) - Automatically download websites from the Internet.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing windows size and position. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
